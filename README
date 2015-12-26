@@ -1,0 +1,3 @@
+Taclet is an applet that displays TACTIC events online. It visualizes tracks and coincidences, and generates energy and position histograms.
+Reads data from the analyzer online over socket 4711.
+See http://trshare.triumf.ca/~ulrike/FileApplet.php for a demo using input from a file.
